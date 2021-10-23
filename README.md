@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/icrowds/icrowds.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+<img src="https://user-images.githubusercontent.com/200494/138560410-05e93db6-0233-495c-8374-1f01250e35ad.png" class="foo"/>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
